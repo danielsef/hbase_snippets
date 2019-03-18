@@ -1,11 +1,11 @@
 
-Docker image:
+# Docker image:
 https://hub.docker.com/r/olegfedoseev/hbase-standalone
 
 
 
 
-Import CSV into HBase:
+# Import CSV into HBase:
 
 http://bigdataprogrammers.com/import-csv-data-into-hbase/
 https://acadgild.com/blog/importtsv-data-from-hdfs-into-hbase
